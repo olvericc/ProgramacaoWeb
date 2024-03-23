@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livros>
+	<titulo>
+		<strong>
+			<font size=5>+=+=+=+ LIVROS EXISTENTES +=+=+=+</font>
+		</strong>
+	</titulo>
+	<br>
+	<underline>________________________________________________________</underline>
+	<br>
+	<br>
+	<livro>
+		<titulo>
+			Titulo: ........................................ Harry Potter e as Reliquias da Morte
+		</titulo>
+		<br>
+		<br>
+		<autor>
+            Autor: ........................................ J.K. Rowling
+		</autor>
+        <br>
+		<br>
+		<anoPublicacao>
+			Ano de Publicacao: ................... 2007
+		</anoPublicacao>
+        <br>
+		<br>
+		<editora>
+			Editora: ..................................... Rocco
+		</editora> 
+	</livro>
+	<br>
+    <underline>________________________________________________________</underline>
+	<br>
+	<br>
+	<livro>
+		<titulo>
+			Titulo: ........................................ Harry Potter e a Pedra Filosofal
+		</titulo>
+		<br>
+		<br>
+		<autor>
+            Autor: ........................................ J.K. Rowling
+		</autor>
+        <br>
+		<br>
+		<anoPublicacao>
+			Ano de Publicacao: ................... 1997
+		</anoPublicacao>
+        <br>
+		<br>
+		<editora>
+			Editora: ..................................... Bloomsbury Publishing
+		</editora> 
+	</livro>
+	<br>
+    <underline>________________________________________________________</underline>
+	<br>
+	<br>
+	<livro>
+		<titulo>
+			Titulo: ........................................ Harry Potter e o Calice de Fogo
+		</titulo>
+		<br>
+		<br>
+		<autor>
+            Autor: ........................................ J.K. Rowling
+		</autor>
+        <br>
+		<br>
+		<anoPublicacao>
+			Ano de Publicacao: ................... 2000
+		</anoPublicacao>
+        <br>
+		<br>
+		<editora>
+			Editora: ..................................... Bloomsbury Publishing
+		</editora> 
+	</livro>
+	<br>
+	<br>
+</livros>
